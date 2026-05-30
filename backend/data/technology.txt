@@ -1,0 +1,97 @@
+Software Engineering is one of the most in-demand careers in the world today.
+To become a software engineer, you need to learn programming languages like Python, JavaScript, or Java.
+Data Structures and Algorithms are the foundation of software engineering interviews.
+Building personal projects and contributing to open source is the best way to build a portfolio.
+Popular platforms to practice coding are LeetCode, HackerRank, and CodeForces.
+Top companies like Google, Microsoft, and Meta hire software engineers with strong DSA skills.
+A software engineer's average salary ranges from $80,000 to $150,000 per year in the US.
+
+Data Science is the field that combines statistics, programming, and domain knowledge.
+To become a data scientist, you need to learn Python, R, SQL, and machine learning.
+Important libraries for data science are Pandas, NumPy, Scikit-learn, and TensorFlow.
+Kaggle is the best platform to practice data science and participate in competitions.
+A data scientist analyzes large amounts of data to find patterns and make business decisions.
+Popular tools used in data science include Jupyter Notebook, Tableau, and Power BI.
+
+Artificial Intelligence is the simulation of human intelligence in machines.
+Machine Learning is a subset of AI where machines learn from data without being explicitly programmed.
+Deep Learning uses neural networks with many layers to solve complex problems like image recognition.
+Natural Language Processing (NLP) is a branch of AI that helps machines understand human language.
+AI is being used in healthcare, finance, education, transportation, and many other industries.
+To start a career in AI, learn Python, mathematics, statistics, and machine learning algorithms.
+
+Cybersecurity is the practice of protecting computers, networks, and data from digital attacks.
+To start a career in cybersecurity, learn networking fundamentals, Linux, and ethical hacking.
+Popular certifications in cybersecurity are CompTIA Security+, CEH, and CISSP.
+Cybersecurity professionals are in very high demand because cyber attacks are increasing every year.
+Common roles in cybersecurity include penetration tester, security analyst, and SOC analyst.
+
+UI/UX Design is the process of designing user interfaces and user experiences for digital products.
+To become a UI/UX designer, learn Figma, Adobe XD, and user research techniques.
+A good UI/UX designer understands the psychology of users and creates intuitive designs.
+Building a strong portfolio with real projects is the most important thing for a design career.
+UI/UX designers work closely with developers and product managers to ship great products.
+
+Cloud Computing is the delivery of computing services over the internet.
+Major cloud platforms are Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform.
+Popular cloud certifications are AWS Solutions Architect, Azure Fundamentals, and Google Cloud Associate.
+Cloud engineers are responsible for designing, building, and maintaining cloud infrastructure.
+Learning Docker and Kubernetes is very important for a career in cloud and DevOps.
+
+Business Analysis is the practice of identifying business needs and finding technical solutions.
+A business analyst acts as a bridge between the technical team and the business stakeholders.
+Important skills for a business analyst include communication, problem solving, and data analysis.
+Tools commonly used by business analysts are Excel, SQL, Tableau, and JIRA.
+To become a business analyst, get a degree in business, IT, or a related field and learn data tools.
+
+Digital Marketing is the promotion of products and services using digital channels.
+Important areas of digital marketing include SEO, social media marketing, email marketing, and PPC.
+Google Analytics and Google Ads are essential tools every digital marketer should know.
+Content marketing involves creating valuable content to attract and retain a target audience.
+A career in digital marketing requires creativity, analytical thinking, and communication skills.
+
+Resume writing tips for fresh graduates and experienced professionals.
+Keep your resume to one page if you have less than five years of experience.
+Always quantify your achievements, for example write increased sales by 30 percent instead of improved sales.
+Use action verbs at the start of each bullet point like developed, designed, managed, or increased.
+Tailor your resume for each job application by matching keywords from the job description.
+ATS or Applicant Tracking System is software used by companies to filter resumes automatically.
+To pass ATS, use simple formatting, avoid tables and graphics, and include relevant keywords.
+
+LinkedIn is the most important platform for professional networking and job searching.
+Keep your LinkedIn profile updated with your latest skills, projects, and work experience.
+Connect with people in your industry and engage with their content to grow your network.
+Recruiters actively search LinkedIn for candidates, so having a complete profile is very important.
+Ask your professors, colleagues, or managers for LinkedIn recommendations to build credibility.
+
+Interview preparation is very important for landing your dream job.
+For technical interviews, practice Data Structures and Algorithms on LeetCode every day.
+The STAR method stands for Situation, Task, Action, and Result and is used for behavioral interviews.
+Research the company thoroughly before your interview and prepare questions to ask the interviewer.
+Mock interviews with friends or platforms like Pramp can greatly improve your confidence.
+System design interviews are common for senior software engineering roles and require practice.
+
+Internships are the best way for fresh graduates to gain real world experience.
+Apply for internships at least three to six months before the start date.
+Even unpaid internships can be valuable if they provide good learning and networking opportunities.
+Platforms to find internships include LinkedIn, Indeed, Glassdoor, and company career pages.
+During your internship, show initiative, ask questions, and build strong relationships with your team.
+
+Freelancing is a great way to earn money and build experience while studying or after graduation.
+Popular freelancing platforms include Upwork, Fiverr, Freelancer, and Toptal.
+To succeed as a freelancer, build a strong profile, collect client reviews, and deliver work on time.
+In-demand freelancing skills include web development, graphic design, content writing, and video editing.
+Freelancing requires self discipline, time management, and strong communication skills.
+
+Remote work has become very common after the COVID-19 pandemic.
+Many tech companies now offer fully remote or hybrid work options.
+To find remote jobs, use platforms like Remote.co, We Work Remotely, and LinkedIn with remote filter.
+Important skills for remote work include communication, time management, and self motivation.
+Having a dedicated workspace and following a daily routine greatly improves remote work productivity.
+
+Fresh graduates often struggle with choosing the right career path.
+It is important to identify your strengths, interests, and values before choosing a career.
+Taking online courses on platforms like Coursera, Udemy, and edX can help you explore new fields.
+Networking with professionals in your field of interest can give you valuable insights and guidance.
+Do not be afraid to change your career path if you feel you are not growing or not happy.
+
