@@ -10,15 +10,3 @@ langchain-core
 chromadb
 sentence-transformers
 python-dotenv
-
-
-HOW TO INSTALL
-Run this command to install all packages at once:
-
-pip install -r requirements.txt
-
-
-WHY requirements.txt?
-- Easy setup on any new system
-- Run the project without manually finding packages
-- Keeps track of all packages used in the project
