@@ -8,14 +8,14 @@ export default function ContactPage() {
       <Navbar />
 
       {/* HEADER */}
-      <section className="text-center pt-24 pb-12 bg-gradient-to-b from-blue-50 to-white">
-        <h1 className="text-5xl font-bold text-gray-900">
+      <section className="text-center pt-16 md:pt-24 pb-10 md:pb-12 px-6 bg-gradient-to-b from-blue-50 to-white">
+        <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-900">
           Contact Us
         </h1>
 
-        <p className="mt-5 text-gray-600 max-w-2xl mx-auto text-lg">
-          Have a question, feedback, or want to collaborate? 
-          We’re here to help and respond as quickly as possible.
+        <p className="mt-5 text-gray-600 max-w-2xl mx-auto text-base md:text-lg">
+          Have a question, feedback, or want to collaborate?
+          We're here to help and respond as quickly as possible.
         </p>
 
         <div className="mt-6">
@@ -26,7 +26,7 @@ export default function ContactPage() {
       </section>
 
       {/* FORM SECTION */}
-      <section className="max-w-4xl mx-auto px-6 pb-20">
+      <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-16 md:pb-20">
         <div className="bg-white border rounded-2xl p-6 md:p-10 shadow-sm">
 
           <form className="space-y-5">
@@ -36,7 +36,7 @@ export default function ContactPage() {
               <input
                 type="text"
                 placeholder="Enter your name"
-                className="mt-1 w-full border rounded-xl px-4 py-3 outline-none focus:ring-2 focus:ring-blue-500"
+                className="mt-1 w-full border rounded-xl px-4 py-3 outline-none focus:ring-2 focus:ring-blue-500 text-sm md:text-base"
               />
             </div>
 
@@ -45,7 +45,7 @@ export default function ContactPage() {
               <input
                 type="email"
                 placeholder="Enter your email"
-                className="mt-1 w-full border rounded-xl px-4 py-3 outline-none focus:ring-2 focus:ring-blue-500"
+                className="mt-1 w-full border rounded-xl px-4 py-3 outline-none focus:ring-2 focus:ring-blue-500 text-sm md:text-base"
               />
             </div>
 
@@ -54,7 +54,7 @@ export default function ContactPage() {
               <input
                 type="text"
                 placeholder="What is this about?"
-                className="mt-1 w-full border rounded-xl px-4 py-3 outline-none focus:ring-2 focus:ring-blue-500"
+                className="mt-1 w-full border rounded-xl px-4 py-3 outline-none focus:ring-2 focus:ring-blue-500 text-sm md:text-base"
               />
             </div>
 
@@ -63,13 +63,13 @@ export default function ContactPage() {
               <textarea
                 rows={6}
                 placeholder="Write your message..."
-                className="mt-1 w-full border rounded-xl px-4 py-3 outline-none focus:ring-2 focus:ring-blue-500"
+                className="mt-1 w-full border rounded-xl px-4 py-3 outline-none focus:ring-2 focus:ring-blue-500 text-sm md:text-base"
               />
             </div>
 
             <button
               type="submit"
-              className="w-full bg-blue-600 text-white py-3 rounded-xl font-medium hover:bg-blue-700 transition"
+              className="w-full bg-blue-600 text-white py-3 rounded-xl font-medium hover:bg-blue-700 transition text-sm md:text-base"
             >
               Send Message
             </button>
@@ -77,10 +77,10 @@ export default function ContactPage() {
           </form>
         </div>
 
-        <div className="text-center mt-10 text-sm text-gray-500">
+        <div className="text-center mt-8 md:mt-10 text-sm text-gray-500 px-4">
           Or email us directly at{" "}
-          <span className="text-gray-800 font-medium">
-          afsahfarooqui234@gmail.com
+          <span className="text-gray-800 font-medium break-all">
+            afsahfarooqui234@gmail.com
           </span>
         </div>
       </section>

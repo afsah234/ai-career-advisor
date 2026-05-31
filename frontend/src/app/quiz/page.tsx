@@ -17,13 +17,13 @@ export default function QuizPage() {
       <Navbar />
 
       {/* HERO SECTION */}
-      <div className="max-w-4xl mx-auto text-center pt-24 px-6">
+      <div className="max-w-4xl mx-auto text-center pt-16 md:pt-24 px-6">
 
-        <h1 className="text-4xl md:text-5xl font-bold text-gray-900">
+        <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-900">
           Choose Your Career Path
         </h1>
 
-        <p className="text-gray-600 mt-4 text-lg">
+        <p className="text-gray-600 mt-4 text-base md:text-lg">
           Take a quick AI-powered quiz and discover your ideal career direction
         </p>
 
@@ -35,18 +35,18 @@ export default function QuizPage() {
       </div>
 
       {/* CARDS SECTION */}
-      <div className="max-w-5xl mx-auto px-6 mt-16 grid md:grid-cols-3 gap-8 pb-20">
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 mt-10 md:mt-16 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-5 md:gap-8 pb-16 md:pb-20">
 
         {/* TECH */}
         <div
           onClick={() => startQuiz("tech")}
-          className="cursor-pointer group bg-white border rounded-2xl p-8 shadow-sm hover:shadow-xl transition transform hover:-translate-y-1"
+          className="cursor-pointer group bg-white border rounded-2xl p-6 md:p-8 shadow-sm hover:shadow-xl transition transform hover:-translate-y-1"
         >
           <div className="w-14 h-14 rounded-xl bg-blue-100 flex items-center justify-center mb-5 group-hover:bg-blue-200 transition">
             <Code2 className="text-blue-600" size={26} />
           </div>
 
-          <h2 className="text-xl font-semibold text-gray-900">
+          <h2 className="text-lg md:text-xl font-semibold text-gray-900">
             Technology
           </h2>
 
@@ -62,13 +62,13 @@ export default function QuizPage() {
         {/* BUSINESS */}
         <div
           onClick={() => startQuiz("business")}
-          className="cursor-pointer group bg-white border rounded-2xl p-8 shadow-sm hover:shadow-xl transition transform hover:-translate-y-1"
+          className="cursor-pointer group bg-white border rounded-2xl p-6 md:p-8 shadow-sm hover:shadow-xl transition transform hover:-translate-y-1"
         >
           <div className="w-14 h-14 rounded-xl bg-green-100 flex items-center justify-center mb-5 group-hover:bg-green-200 transition">
             <Briefcase className="text-green-600" size={26} />
           </div>
 
-          <h2 className="text-xl font-semibold text-gray-900">
+          <h2 className="text-lg md:text-xl font-semibold text-gray-900">
             Business
           </h2>
 
@@ -84,13 +84,13 @@ export default function QuizPage() {
         {/* DESIGN */}
         <div
           onClick={() => startQuiz("design")}
-          className="cursor-pointer group bg-white border rounded-2xl p-8 shadow-sm hover:shadow-xl transition transform hover:-translate-y-1"
+          className="cursor-pointer group bg-white border rounded-2xl p-6 md:p-8 shadow-sm hover:shadow-xl transition transform hover:-translate-y-1"
         >
           <div className="w-14 h-14 rounded-xl bg-pink-100 flex items-center justify-center mb-5 group-hover:bg-pink-200 transition">
             <Palette className="text-pink-600" size={26} />
           </div>
 
-          <h2 className="text-xl font-semibold text-gray-900">
+          <h2 className="text-lg md:text-xl font-semibold text-gray-900">
             Design
           </h2>
 
